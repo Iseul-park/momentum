@@ -8,8 +8,8 @@ https://iseul-park.github.io/momentum/
 Transform your new tab page into a personalized dashboard that caters to your productivity, inspiration, and weather needs. 
 
 ## Functions
-User Login and Data Persistence
-Current Time Display
-Real-Time Weather Updates
-Dynamic Background Images and Inspiring Quotes
-To-Do List Management
++ User Login and Data Persistence
++ Current Time Display
++ Real-Time Weather Updates
++ Dynamic Background Images and Inspiring Quotes
++ To-Do List Management
